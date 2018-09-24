@@ -1,0 +1,53 @@
+.App {
+  /* background-color: red */
+}
+
+.insideJumbo {
+  width: 32vh;
+  margin-left: 90px;
+}
+
+.background1 {
+  color: white;
+  background-color: #222233
+}
+
+.nav1 {
+  background-color: #222233
+}
+
+.theButton {
+  background-color: white;
+  color: #222233
+}
+
+.card1 {
+  width: 13vh
+}
+
+.card2 {
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card3 {
+  color: rgb(130, 130, 130);
+  font-size: 14px;
+  /* margin-left: 5vw; */
+}
+
+.card4 {
+  /* margin-left: 9vh; */
+  font-size: 30px;
+}
+
+.card5 {
+  margin-left: 81px;
+  font-size: 30px;
+}
+
+.ironhack-logo{
+  margin-left: 12vh;
+}
