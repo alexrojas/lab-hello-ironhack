@@ -1,8 +1,10 @@
 import React, { Component } from "react";
-import './App.css'
+import './App.css';
+import App2 from './App2.js';
 
 class App extends Component{
   render(){
+
     return (
       <div className="App">
 
@@ -59,10 +61,8 @@ class App extends Component{
             </div>
           </div>
 
-
-
         </div>
-
+        <App2></App2>
 
 
       </div>
