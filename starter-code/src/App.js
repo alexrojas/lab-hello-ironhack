@@ -13,9 +13,11 @@ class App extends Component{
           </button>
         </nav>
 
+
         <div class="jumbotron background1">
           <div class="insideJumbo">
-            <h1 class="display-4">Say Hello to ReactJS</h1>
+            <img className="reactLogo" src="/images/react-logo.svg" />
+            <h1 className="display-4 bigTitle">Say Hello to ReactJS</h1>
             <p class="lead">You will learn Frontend framework from scratch, to become an Ninja Developer
             </p>
             <p class="lead">

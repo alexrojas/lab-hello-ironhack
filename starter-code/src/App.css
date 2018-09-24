@@ -3,7 +3,7 @@
 }
 
 .insideJumbo {
-  width: 32vh;
+  width: 40vh;
   margin-left: 90px;
 }
 
@@ -50,4 +50,13 @@
 
 .ironhack-logo{
   margin-left: 12vh;
+}
+
+.reactLogo{
+  position: absolute;
+    margin-left: 40vw;
+}
+
+.bigTitle{
+  font-weight: 600;
 }
